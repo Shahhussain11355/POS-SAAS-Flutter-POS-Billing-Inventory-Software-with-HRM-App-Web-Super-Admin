@@ -1,0 +1,2 @@
+# POS-SAAS-Flutter-POS-Billing-Inventory-Software-with-HRM-App-Web-Super-Admin
+POS SaaS-Flutter POS Inventory Software with App+Web+Super Admin is a cutting-edge Point of Sale (POS) solution delivered as a Software as a Service (SaaS) application. Developed using the Flutter framework for a seamless cross-platform experience, it integrates seamlessly with Firebase to provide a robust and scalable backend.
